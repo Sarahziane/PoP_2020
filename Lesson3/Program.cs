@@ -19,7 +19,7 @@ namespace Lesson3
             if (a == b || a == c || c == b)
             {
                 Console.WriteLine("Two of the sides are equal\n");
-                if (a == b)
+                if (a == b) 
                     Console.WriteLine("Side a and side b are equal");
                 if (b == c)
                     Console.WriteLine("Side b and side c are equal");
