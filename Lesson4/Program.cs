@@ -21,7 +21,7 @@ namespace Lesson4
             }
             return Encoded_Message;
         }
-
+         
         static string Decode(string saisie, char[] alphabet, char[] random)
         {
             string Decoded_message = "";

@@ -16,7 +16,7 @@ namespace Lesson3
             Console.WriteLine("Side c of the triangle ? ");
             int c = Convert.ToInt32(Console.ReadLine());
 
-            if (a == b || a == c || c == b)
+            if (a == b || a == c || c == b) 
             {
                 Console.WriteLine("Two of the sides are equal\n");
                 if (a == b) 
