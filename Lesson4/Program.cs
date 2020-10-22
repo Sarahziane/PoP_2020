@@ -28,7 +28,7 @@ namespace Lesson4
             int index = -1;
 
             for (int i = 0; i < saisie.Length; i++)
-            {
+            { 
                 for (int j = 0; j < random.Length; j++)
                 {
                     if (saisie[i] == random[j])
