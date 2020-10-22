@@ -18,7 +18,7 @@ namespace PoP_2020
             var _euro = _leva / 1.95583;
             Console.WriteLine(_euro);
 
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
