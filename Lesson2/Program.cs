@@ -14,7 +14,7 @@ namespace Lesson2
         }
 
         static void Rectangle()
-        {
+        { 
             Console.WriteLine("Width of the rectangle?");
             int width = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Length of the rectangle?");
