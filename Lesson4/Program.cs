@@ -15,7 +15,7 @@ namespace Lesson4
                 {
                     if (saisie[i] == alphabet[j])
                         index = j;
-                }
+                } 
                 Encoded_Message += random[index];
 
             }
