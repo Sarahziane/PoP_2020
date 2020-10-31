@@ -4,7 +4,7 @@ using System.Collections;
 
 namespace Lesson3
 {
-    class Program
+    class Program //form validation
     {
         static void Triangles()
         {
@@ -127,7 +127,7 @@ namespace Lesson3
                 return "evening";
             }
         }
-        private static string Getperiodtotheweekend(int daynumber)
+        private static string Getperiodtotheweekend(int daynumber) 
         {
             switch (daynumber)
             {
